@@ -1,6 +1,6 @@
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Diego+👋;Analista+de+Datos;Machine+Learning%20%26+Análisis+Predictivo;Python+|+SQL+|+Power+BI;Transformando+datos+en+decisiones" alt="Headline">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Diego+👋;Analista+de+Datos;&#8203;Machine+Learning+%26+Análisis+Predictivo;Python+|+SQL+|+Power+BI;Transformando+datos+en+decisiones>
 </div>
 
 <!-- Redes -->
