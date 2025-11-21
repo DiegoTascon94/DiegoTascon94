@@ -1,8 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="./banner.png" alt="Banner Personal" height="200">
-</div>
-
 <!-- Título animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Diego+👋;Analista+de+Datos;Machine+Learning+%26+Análisis+Predictivo;Python+|+SQL+|+Power+BI;Transformando+datos+en+decisiones" alt="Headline">
@@ -13,9 +8,10 @@
   <a href="https://www.linkedin.com/in/diego-tascon/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="diegotasconlopez@gmail.com">
+  <a href="mailto:diegotasconlopez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
-  </a>
+</a>
+
 </div>
 
 <br>
