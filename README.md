@@ -10,10 +10,10 @@
 
 <!-- Redes -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/diego-tascon/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="diegotasconlopez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -81,30 +81,4 @@ Apasionado por aprender nuevas tecnologías, metodologías de análisis y enfoqu
 </div>
 
 <hr>
-
-<!-- ACTIVIDAD EN GITHUB -->
-<div align="center">
-  <h2>📊 Actividad en GitHub</h2>
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=DiegoTascon94&show_icons=true&theme=dark&title_color=00BFFF&icon_color=00BFFF"
-       height="200"
-  >
-
-  <br><br>
-
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoTascon94&theme=dark&date_format=j%20M%5B%20Y%5D&fire=00BFFF&ring=00BFFF&currStreakLabel=00BFFF"
-       height="200"
-  >
-
-  <br><br>
-
-  <img 
-       src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif"
-       alt="GitHub Octocat Logo"
-       height="100"
-  >
-  <p>Cargando...</p>
-</div>
 
