@@ -1,24 +1,26 @@
 <div>
-    <div align=center>
-        <!-- Puedes reemplazar esta imagen por tu propio banner si lo deseas -->
+    <div align="center">
         <img src="./banner.png" alt="Banner Personal" height="200">
     </div>
 
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&size=32&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Diego+%F0%9F%91%8B;Analista+de+Datos;Machine+Learning+%26+An%C3%A1lisis+Predictivo;Python+%7C+SQL+%7C+Power+BI;Transformando+datos+en+decisiones" alt="Headline" />
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&size=32&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Diego;Analista+de+Datos;Machine+Learning;Python+%7C+SQL+%7C+Power+BI" />
     </div>
 
-    <div align=center>
+    <div align="center">
         <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
         </a>
         <a href="mailto:TU_CORREO">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail" />
         </a>
     </div>
 
-    <div align=left>
+    <div align="left">
         <br>
+    </div>
+</div>
+
 
 ### 👨‍💻 Sobre mí
 
@@ -49,7 +51,6 @@ Apasionado por aprender nuevas tecnologías, metodologías de análisis y enfoqu
 
 **Business Intelligence**
 - Power BI  
-- Tableau  
 
 **Otras**
 - Git & GitHub  
