@@ -8,7 +8,6 @@
   </a>
 </div>
 
-
 <!-- Redes -->
 <div align="center">
   <a href="https://www.linkedin.com/in/diego-tascon/">
