@@ -62,19 +62,3 @@ Apasionado por aprender nuevas tecnologías, metodologías de análisis y enfoqu
 - 🤝 Abierto a: nuevas oportunidades en análisis de datos.  
 
 ---
-
-<!-- CONTACTO -->
-<h2>📬 Contacto</h2>
-
-<div align="center">
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="40">
-  </a>
-
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40">
-  </a>
-</div>
-
-<hr>
-
