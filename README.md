@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=26&center=true&vCenter=true&width=700&height=50&lines=Diego+Tascon+👋;Data+Analyst+Jr;Python+|+SQL+|+Power+BI;E-commerce+·+Retail+·+Logística;Transformando+datos+en+decisiones" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=26&center=true&vCenter=true&width=700&height=50&lines=Diego+Tascon+👋;Data+Analyst;Python+|+SQL+|+Power+BI;E-commerce+·+Retail+·+Logística;Transformando+datos+en+decisiones" alt="Typing SVG"/>
   </a>
 </div>
 
